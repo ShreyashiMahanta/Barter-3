@@ -1,0 +1,10 @@
+{
+  "expoServerNgrokUrl": "https://3u-4g4.shreyashimahanta.barter.exp.direct",
+  "packagerNgrokUrl": "https://packager.3u-4g4.shreyashimahanta.barter.exp.direct",
+  "ngrokPid": 9280,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 7716,
+  "webpackServerPort": null
+}
